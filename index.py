@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>희순이의 생각하는 동화</title>
+ 
+</head>
+<body>
 import tkinter as tk
 from tkinter import messagebox, ttk
 import sqlite3
@@ -109,3 +116,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    </body>
+</html>
